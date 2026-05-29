@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **JmCoffee-code/JmCoffee-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JmCoffee-code&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
+</p>
+
+### Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JmCoffee-code&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
