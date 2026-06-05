@@ -1,4 +1,4 @@
-I'm Jhun Michael Sanico! 👋
+I'm Jhun Michael Sanico!
 
 I am a student passionate about programming and continuously building web and software development projects. I enjoy writing clean code and learning new technologies to level up my skills.
 
