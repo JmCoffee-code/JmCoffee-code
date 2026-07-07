@@ -1,7 +1,8 @@
 # Hi, I'm JM 👋
-
-I am a student passionate about programming and continuously building web and software development projects. I enjoy writing clean, maintainable code and learning new technologies to improve my skills. My goal is to become a Backend Developer and eventually a Full-Stack Developer.
-
+<p align="center">
+I'm an aspiring Backend Developer from the Philippines 🇵🇭.
+I enjoy learning new technologies and building projects to improve my skills.
+</p>
 
 
 ## 🚀 Tech Stack
