@@ -22,6 +22,7 @@ I am a student passionate about programming and continuously building web and so
  
 </p>
 
+<hr style="border:1px solid #30363d;">
 
 ### GitHub Stats
 
