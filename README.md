@@ -23,7 +23,7 @@ I am a student passionate about programming and continuously building web and so
 </p>
 ---
 
-## GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=JmCoffee-code&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
