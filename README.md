@@ -20,17 +20,16 @@ I am a student passionate about programming and continuously building web and so
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
  
- 
 </p>
-
 ---
-## 📊 GitHub Stats
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JmCoffee-code&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=JmCoffee-code&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JmCoffee-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JmCoffee-code&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JmCoffee-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JmCoffee-code&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
