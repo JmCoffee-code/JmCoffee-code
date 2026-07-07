@@ -1,7 +1,7 @@
 # Hi, I'm JM 👋
 <p align="center">
-I'm an aspiring Backend Developer from the Philippines 🇵🇭.
-I enjoy learning new technologies and building projects to improve my skills.
+  <strong>I'm an aspiring Backend Developer from the Philippines 🇵🇭.</strong><br>
+  <strong>I enjoy learning new technologies and building projects to improve my skills.</strong>
 </p>
 
 
